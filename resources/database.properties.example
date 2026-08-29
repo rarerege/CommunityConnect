@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://127.0.0.1:3306/communityconnect?useSSL=false&serverTimezone=UTC&autoReconnect=true
+db.username=root
+db.password=your_password_here
